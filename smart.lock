@@ -8,7 +8,8 @@
       "select2": {},
       "select2-bootstrap3-css": {},
       "jquery-easing": {},
-      "chartjs": {}
+      "chartjs": {},
+      "bootstrap-slider": {}
     },
     "packages": {
       "bootstrap3-less": {
@@ -45,6 +46,11 @@
         "git": "https://github.com/donskifarrell/meteor-chartjs.git",
         "tag": "v0.0.4",
         "commit": "9d2adcd1de3728c8227e8eb7da0dcb2e0df21d0b"
+      },
+      "bootstrap-slider": {
+        "git": "https://github.com/kidovate/meteor-bootstrap-slider.git",
+        "tag": "v0.0.5",
+        "commit": "0a0421f3ceea41d05ad0c90d217589954f0dc3a0"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
